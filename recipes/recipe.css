@@ -1,0 +1,23 @@
+body {
+    margin: 30px;
+    background-color: rgb(255, 243, 206);
+}
+
+h1, h2, h3, h4 {
+    font-family: Verdana, Arial, sans-serif;
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 10px 0px;
+}
+
+li {
+    font-size: 18px;
+}
